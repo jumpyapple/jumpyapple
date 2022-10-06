@@ -5,3 +5,7 @@ He usually appears on [The Programmer's Hangout Discord Server](https://theprogr
 ## Attempt at programming
 
 He was, twice, attempting to switch `def` and `class` to `uwu` for cpython. He failed to switch `def` to `func` in cpython.
+
+## Misc
+
+- Source of PFP: https://www.hoyolab.com/article/320361
